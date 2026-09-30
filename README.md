@@ -14,7 +14,7 @@ I explore computational methods for representing, generating, and analyzing arch
 
 ### Links
 
-- [ORCID](https://orcid.org/0009-0000-2438-7308)
 - [HYWE](https://hywe.in)
-- [Testing Waters Architecture](https://www.testingwaters.net)
+- [ORCID](https://orcid.org/0009-0000-2438-7308)
 - [LinkedIn](https://www.linkedin.com/in/vikramsubbaiah/)
+- [Testing Waters Architecture](https://www.testingwaters.net)

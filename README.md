@@ -1,16 +1,20 @@
-## Hi there 👋
+# Vikram Subbaiah
 
-<!--
-**vykrum/vykrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect and independent researcher exploring computational design, spatial computation and architectural ideation.
 
-Here are some ideas to get you started:
+I explore computational methods for representing, generating, and analyzing architectural space, with particular interest in design intent before conventional geometric modelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research
+
+- **HYWE — Hygrid Woven Ensemble**
+- Spatial computation
+- Computational architectural ideation
+- Generative and discrete design systems
+- Design scripting and computational workflows
+
+### Links
+
+- [ORCID](https://orcid.org/0009-0000-2438-7308)
+- [HYWE](https://hywe.in)
+- [Testing Waters Architecture](https://www.testingwaters.net)
+- [LinkedIn](https://www.linkedin.com/in/vikramsubbaiah/)

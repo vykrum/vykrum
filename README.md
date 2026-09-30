@@ -6,7 +6,7 @@ I explore computational methods for representing, generating, and analyzing arch
 
 ### Research
 
-- **HYWE — Hygrid Woven Ensemble**
+- **HYWE - Hygrid Woven Ensemble**
 - Spatial computation
 - Computational architectural ideation
 - Generative and discrete design systems
